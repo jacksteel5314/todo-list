@@ -313,7 +313,7 @@
             <mxPoint x="440" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IBz2gKsZxdDZvviABwcV-5" value="course offering" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IBz2gKsZxdDZvviABwcV-5" value="course offering (weak relationship with subject) - separate from subject&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
